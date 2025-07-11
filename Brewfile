@@ -1,5 +1,7 @@
 tap "grishka/grishka"
 tap "homebrew/services"
+# Securely transfers data between computers
+brew "magic-wormhole"
 # Perl lib for reading and writing EXIF metadata
 brew "exiftool"
 # Distributed revision control system
