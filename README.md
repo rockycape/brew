@@ -6,6 +6,8 @@ Use the brew bundle command to create a Brewfile in your home directory with all
 
 **brew bundle dump --describe --file=~/Brewfile**
 
+--> send output to terminal is **brew bundle dump --describe --file=/dev/stdout**
+
 Copy the Brewfile to the second Mac
 
 
