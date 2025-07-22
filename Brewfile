@@ -21,6 +21,8 @@ cask "expressvpn"
 # Sandbox construction video game
 cask "minecraft"
 # Unofficial Google Nearby Share app
+# 7-Zip (high compression file archiver) implementation
+brew "p7zip"
 cask "neardrop"
 vscode "bierner.markdown-preview-github-styles"
 vscode "c1495616js.paste-url-md"
