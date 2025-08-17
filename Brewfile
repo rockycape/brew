@@ -14,6 +14,8 @@ brew "jupyterlab", restart_service: :changed
 brew "python@3.12"
 # Extremely fast Python package installer and resolver, written in Rust
 brew "uv"
+# Image utility
+brew "imagemagick"
 # Audio utility
 cask "background-music"
 # VPN client for secure internet access and private browsing
